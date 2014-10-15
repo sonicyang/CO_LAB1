@@ -13,24 +13,22 @@ main:
 	.set	noreorder
 	.set	nomacro
     
-    addi $5, $zero, 536870912			# 0x20000000
-    addi $3, $zero, 1       			# 0x20000000
+    addi $5, $zero, 1			# 0x20000000
+    sll $5, 29
+    addi $3, $zero, 1                   # 0x20000000
     sw $3, 0($5)
-    add $5, $5, 4
     add $3, $3, 1
-    sw $3, 0($5)
-	
-	li	$3,536870912			# 0x20000000
-	li	$4,536870916			# 0x20000004
+    sw $3, 4($5)
+    
+    lw $3, 0($5)
+    lw $4, 4($5)
 
     add $3, $3, $4
-    
-    addi $5, $zero, 536870920			# 0x20000008
 
-    sw $3, 0($5)
+    sw $3, 8($5)
 
-	jr	$31
 	move	$2,$0
+	jr	$31
 
 	.set	macro
 	.set	reorder
