@@ -1,0 +1,568 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\LAB1\MIPS_cpu_test
+vboot_state
+V[gQ2@1RRRBn=>QX_F>I2M1
+r1
+31
+IE>V:RaF;fOXd7A:>P:j;d2
+w1118200005
+8C:/LAB1/MIPS_cpu_test/boot_state.v
+FC:/LAB1/MIPS_cpu_test/boot_state.v
+L0 21
+Z1 OE;L;6.5;42
+Z2 o-work work -nocovercells -L mtiAvm -L mtiOvm -L mtiUPF
+Z3 !s102 -nocovercells
+!s85 0
+!s100 oidY]bS;1i]:YcIj_883d1
+vbranch_unit
+VbDO2D^RGFf<0j0=dmWTZb2
+r1
+31
+I??<=k:8T@[ghmR6[OPP<^0
+w1104042416
+8C:/LAB1/MIPS_cpu_test/branch_unit.v
+FC:/LAB1/MIPS_cpu_test/branch_unit.v
+L0 22
+R1
+R3
+R2
+!s85 0
+!s100 M9ld1Wo49Pz<PlXHRldh;2
+vcontrol_unit
+VLhk_<5=g;N_`VW@DOeOCX3
+r1
+31
+IY;^9TjERa`iSnXeh5`PlY0
+w1346749858
+8C:/LAB1/MIPS_cpu_test/control_unit.v
+FC:/LAB1/MIPS_cpu_test/control_unit.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 k06`^8mb`T[WEXVbGO5li1
+vcpu_core
+Vce9zh[9dUZGe`U<U33ZeI0
+r1
+31
+Iz;752zM?CB8jRYdVZ`Ci71
+w1346686697
+8C:/LAB1/MIPS_cpu_test/cpu_core.v
+FC:/LAB1/MIPS_cpu_test/cpu_core.v
+L0 22
+R1
+R3
+R2
+!s85 0
+!s100 OBonh4fclFLdecEBT@GR91
+vcpu_decode5to32
+Vn14fRCCl_=L]98A?<l53T3
+r1
+31
+IkA;F^EU]3B8jM;6]cHeLn1
+w1112005734
+8C:/LAB1/MIPS_cpu_test/cpu_decode5to32.v
+FC:/LAB1/MIPS_cpu_test/cpu_decode5to32.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 YzU84X5O`BO?<kLaEi[m^3
+vcpu_ex
+V9loZnSAo<N8Vh:cVnMEA92
+r1
+31
+IO52W]4O>84RZQlOV=UVmV2
+w1119419150
+8C:/LAB1/MIPS_cpu_test/cpu_ex.v
+FC:/LAB1/MIPS_cpu_test/cpu_ex.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 ?=efKAYSFh:2JafV;U68H3
+vcpu_id
+Vk=g>KTDa_@:j;OhNbgcH@1
+r1
+31
+IAS?cDH:^_<5na66PSID6j0
+w1346686768
+8C:/LAB1/MIPS_cpu_test/cpu_id.v
+FC:/LAB1/MIPS_cpu_test/cpu_id.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 UAZcQjSn?VgndmhX=Q?MQ0
+vcpu_if
+V5<W@e38GoZ01Lngl@;B813
+r1
+31
+IB9VHG`cV46fBh4A;D<03F0
+w1341738200
+8C:/LAB1/MIPS_cpu_test/cpu_if.v
+FC:/LAB1/MIPS_cpu_test/cpu_if.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 1K5IITPKc38B;:2oT@j?X0
+vcpu_mem
+VVj45il?iY<G@B0>M1Hb2Q0
+r1
+31
+I:W2h_ikidDSKj]dS7a:U=1
+w1119424051
+8C:/LAB1/MIPS_cpu_test/cpu_mem.v
+FC:/LAB1/MIPS_cpu_test/cpu_mem.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 0TIOmE?AU@IkaaJ^Cz>ZE3
+vcpu_reg1_ne
+V^N8B`I8dDakG^IjoZKFI50
+r1
+31
+Ia]jBT@YWYb=NkbaUiS7Ne1
+w1118815330
+8C:/LAB1/MIPS_cpu_test/cpu_reg1_ne.v
+FC:/LAB1/MIPS_cpu_test/cpu_reg1_ne.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 WkAbQn9ZH:[I<?EHH>BOB0
+vcpu_reg2_ne
+ViYb1z<Dj[a<7POYYzAoSK1
+r1
+31
+ITCj:eO1URz:o3RGKNQ4E`0
+w1118815337
+8C:/LAB1/MIPS_cpu_test/cpu_reg2_ne.v
+FC:/LAB1/MIPS_cpu_test/cpu_reg2_ne.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 k^R=meeKFKoTFe1Jnd=512
+vcpu_reg32_ne
+V4Q3Z:ddGh5WB03<QO<Fcm3
+r1
+31
+IC9<CkZzTG[B``J1dlWDWm0
+w1341736110
+8C:/LAB1/MIPS_cpu_test/cpu_reg32_ne.v
+FC:/LAB1/MIPS_cpu_test/cpu_reg32_ne.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 QDI><=T3T?2l<H@:?oogc3
+vcpu_reg3_ne
+Va^L1Mc<6c3jo`cFBb<b9X3
+r1
+31
+I5:_`UKec?IUC_NFi[eEAd1
+w1118815343
+8C:/LAB1/MIPS_cpu_test/cpu_reg3_ne.v
+FC:/LAB1/MIPS_cpu_test/cpu_reg3_ne.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 [9llYz@TVgK2;c7zX5MM@0
+vcpu_reg4_ne
+VjMDoPPKh342BVJZ0`X3kJ2
+r1
+31
+IKId0l<A6Z=D`<YRCL5>C@0
+w1118815352
+8C:/LAB1/MIPS_cpu_test/cpu_reg4_ne.v
+FC:/LAB1/MIPS_cpu_test/cpu_reg4_ne.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 0FnPQ]A`FTJdDbUAE<zlA0
+vcpu_reg5_ne
+Vzk>Kcg3l_Aeeh_k1kMB6S3
+r1
+31
+ISEmkW9jJKGf6ZT5=j4V<H3
+w1118815358
+8C:/LAB1/MIPS_cpu_test/cpu_reg5_ne.v
+FC:/LAB1/MIPS_cpu_test/cpu_reg5_ne.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 D_FzBWhh5lP0d:>^i2F3W1
+vcpu_reg8_ne
+VzGa?^8=60IXURUgMf`FTn1
+r1
+31
+I4=U3JQR[55@PTN2hKaeP;3
+w1118815363
+8C:/LAB1/MIPS_cpu_test/cpu_reg8_ne.v
+FC:/LAB1/MIPS_cpu_test/cpu_reg8_ne.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 UOhA0Ea5?]@:J:e;n?@<Q0
+vcpu_reg8x4_ne
+Vag?M?^7cA5>1Q1BMJ]UX:1
+r1
+31
+I5eY_h1OL:l3dzN>9UoQ>i2
+w1119425314
+8C:/LAB1/MIPS_cpu_test/cpu_reg8x4_ne.v
+FC:/LAB1/MIPS_cpu_test/cpu_reg8x4_ne.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 _7n]g5R6cbP?54a<@Q=Q<0
+vcpu_regbank
+VF_;eR?FJ8[zU[BhbcTR8E3
+r1
+31
+IW_kQ07k5aePMb`QQIeKO21
+w1119416891
+8C:/LAB1/MIPS_cpu_test/cpu_regbank.v
+FC:/LAB1/MIPS_cpu_test/cpu_regbank.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 kF5imIjTb0UVBI=CnQ@F60
+vcpu_top
+ViDAOVkGY`HG]7]SSklG9l3
+r1
+31
+Ii5leS`RNb2hRY8_biOHef3
+Z4 w1346672882
+Fcpu_top.v
+Z5 8C:/LAB1/MIPS_cpu_test/testbench.v
+Z6 FC:/LAB1/MIPS_cpu_test/testbench.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 6WHzhXHB`Y_MV5gBCFGWl3
+vcpu_wb
+VP<UEj;6MVkYJzBgD@D>zY3
+r1
+31
+IZ<9<Bnb4N?adi2KPHUTPG2
+w1114524204
+8C:/LAB1/MIPS_cpu_test/cpu_wb.v
+FC:/LAB1/MIPS_cpu_test/cpu_wb.v
+L0 22
+R1
+R3
+R2
+!s85 0
+!s100 ^0383kle7PN60J2BR;P6T0
+vcpu_wb_alignment
+VS2_eUk:C<L6ZjT2jm9<RM3
+r1
+31
+Ii?UNmjR8Nf0`Q^d<^m1K[0
+w1114574050
+8C:/LAB1/MIPS_cpu_test/cpu_wb_alignment.v
+FC:/LAB1/MIPS_cpu_test/cpu_wb_alignment.v
+L0 22
+R1
+R3
+R2
+!s85 0
+!s100 AGB=bdk47hVXC5kHjZ:1>3
+vforward_unit
+VifU;YeHZ0SLD`eN0d1:Hn1
+r1
+31
+ITGM88@6FzoBZhPDGVh^3o0
+w1104042558
+8C:/LAB1/MIPS_cpu_test/forward_unit.v
+FC:/LAB1/MIPS_cpu_test/forward_unit.v
+L0 22
+R1
+R3
+R2
+!s85 0
+!s100 X9@;@kAJb:k^>DIDika:c2
+vfu_alu
+VflTL^h8K8RSXY^KlQhbG@1
+r1
+31
+IgJQ]c6Yc>S;=[B:jambXf0
+w1104042570
+8C:/LAB1/MIPS_cpu_test/fu_alu.v
+FC:/LAB1/MIPS_cpu_test/fu_alu.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 OI77G9>gVXIkF15OW7Y2J1
+vfu_cla4
+V3AFG=cC6UEcZGdnAWEg=J1
+r1
+31
+IXdQz<Pl^fjCUCDYHA;nM82
+w1104042582
+8C:/LAB1/MIPS_cpu_test/fu_cla4.v
+FC:/LAB1/MIPS_cpu_test/fu_cla4.v
+L0 23
+R1
+R3
+R2
+!s85 0
+!s100 X:Q>l@gDi4Jk7FZ`F0M9V3
+vfu_cla4v
+VlHE:66<R8UzOfjI^=hAkW0
+r1
+31
+IWLi>o<_FeMPT@D1`c]19`1
+w1104042590
+8C:/LAB1/MIPS_cpu_test/fu_cla4v.v
+FC:/LAB1/MIPS_cpu_test/fu_cla4v.v
+L0 24
+R1
+R3
+R2
+!s85 0
+!s100 G6`QmBVc2nMRIbQ7A@?KF0
+vfu_csa16
+V`0PTcgme<?0zkz71e^?]^0
+r1
+31
+IAhFUARXFWCg>A6ZefOzh]0
+w1104042612
+8C:/LAB1/MIPS_cpu_test/fu_csa16.v
+FC:/LAB1/MIPS_cpu_test/fu_csa16.v
+L0 23
+R1
+R3
+R2
+!s85 0
+!s100 F?I1gnL9=UJMDR;4BiM9a0
+vfu_csa16v
+V0JPoL5l]9KbF5LMPN=^H]1
+r1
+31
+I[LCXUdX8Ua@k2IELg6FT`3
+w1104042618
+8C:/LAB1/MIPS_cpu_test/fu_csa16v.v
+FC:/LAB1/MIPS_cpu_test/fu_csa16v.v
+L0 24
+R1
+R3
+R2
+!s85 0
+!s100 b4IkmYESP=gng=CQcCTER0
+vfu_csa32
+V4nK?WOOO1W;h8]b3[jMS71
+r1
+31
+ITE1d;GXDPmE2adcFKlkcG0
+w1104042628
+8C:/LAB1/MIPS_cpu_test/fu_csa32.v
+FC:/LAB1/MIPS_cpu_test/fu_csa32.v
+L0 23
+R1
+R3
+R2
+!s85 0
+!s100 [Wa[B1bfP3WPIA2U1kCP41
+vfu_csa34
+V71b@Oo5_DaRzo@lelJ[Q62
+r1
+31
+I2RFKVO[>CVWdG1[L57n@`2
+w1119124992
+8C:/LAB1/MIPS_cpu_test/fu_csa34.v
+FC:/LAB1/MIPS_cpu_test/fu_csa34.v
+L0 23
+R1
+R3
+R2
+!s85 0
+!s100 6=k^=LTFo[b6?QInDhLG:0
+vfu_csa8
+VWG;3M1mJR5:o`[Ub`58b[1
+r1
+31
+IC;_^A`82ji1ob6FkcClG23
+w1104042598
+8C:/LAB1/MIPS_cpu_test/fu_csa8.v
+FC:/LAB1/MIPS_cpu_test/fu_csa8.v
+L0 23
+R1
+R3
+R2
+!s85 0
+!s100 0dYJTzmSZk?n7Pd@;Y7E@2
+vfu_csa8v
+VooSCdEXce;eLb3>>G0dz70
+r1
+31
+Ia91dc^[[KmdaNJlIESc8?0
+w1104042604
+8C:/LAB1/MIPS_cpu_test/fu_csa8v.v
+FC:/LAB1/MIPS_cpu_test/fu_csa8v.v
+L0 24
+R1
+R3
+R2
+!s85 0
+!s100 GBL4:?mX[J_zBg?Q=PKcb3
+vfu_shifter
+VfBCdQIHGbZcHXnD9EiWmb1
+r1
+31
+IJ;:WOzA8RE1>M4SVlccRG1
+w1118199443
+8C:/LAB1/MIPS_cpu_test/fu_shifter.v
+FC:/LAB1/MIPS_cpu_test/fu_shifter.v
+L0 23
+R1
+R3
+R2
+!s85 0
+!s100 B8l:2V3B1KGBX_UAJkL3V0
+vfu_shifter_mask
+VmPgQn<ade728N;ReJVPf?2
+r1
+31
+IX;i3ii8><mDMXSQz7>BdD2
+w1115894117
+8C:/LAB1/MIPS_cpu_test/fu_shifter_mask.v
+FC:/LAB1/MIPS_cpu_test/fu_shifter_mask.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 ?ZD1l?TF9R;60PC`M8IXf1
+vhazard_det_unit
+VT;6ffm1zKl09MUekG3WXk0
+r1
+31
+IJ6CeIzAm9O]g;;BzTA^Yi2
+w1346745760
+8C:/LAB1/MIPS_cpu_test/hazard_det_unit.v
+FC:/LAB1/MIPS_cpu_test/hazard_det_unit.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 F4nNQIB9PcEYbUX?Nf1KW2
+vmemory
+V:WEA6z5d=zgjWfNQeSA9T3
+r1
+31
+I4jFlRShGfemSCGO4mkohB2
+R4
+Fmemory.v
+R5
+R6
+L0 20
+R1
+R3
+R2
+!s85 0
+!s100 aXWbYHATY6KnfkmN>H9bE2
+vmul_decode
+VKTZgC0XC3=X[7clBmYhZ]1
+r1
+31
+I]PaD`;G3Q_WefQi7J`1>M2
+w1102328406
+8C:/LAB1/MIPS_cpu_test/mul_decode.v
+FC:/LAB1/MIPS_cpu_test/mul_decode.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 B3UgQjQ=TlAg75[2oh1kA3
+vmul_fsm
+V[FM_97oL=0I5DBLae_bcY3
+r1
+31
+Ichga32Gc1<IjVKlfCC2Jj2
+w1119119948
+8C:/LAB1/MIPS_cpu_test/mul_fsm.v
+FC:/LAB1/MIPS_cpu_test/mul_fsm.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 ST^Dogegfdk150@8lhEli2
+vmul_reg1_ne
+Vcojgd4PFW^n<1@z0EHTFi1
+r1
+31
+ID:Mb_;ef_]IikX7`SB26V3
+w1119119849
+8C:/LAB1/MIPS_cpu_test/mul_reg1_ne.v
+FC:/LAB1/MIPS_cpu_test/mul_reg1_ne.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 I;VTC^h<DT4G<E2bAeYTW1
+vmul_top
+VzdYhY^13dUGNhY]GhV1Cd3
+r1
+31
+IRAJ_^hMz5@e4mC@^Z54180
+w1119419009
+8C:/LAB1/MIPS_cpu_test/mul_top.v
+FC:/LAB1/MIPS_cpu_test/mul_top.v
+L0 21
+R1
+R3
+R2
+!s85 0
+!s100 3mVbYH1>kTE^M?OkPLBn82
+vtestbench
+Vo3A6fZP0[WWQWSNL4ad]G0
+r1
+!s85 0
+31
+IjATgZkESWTL4@aKTm8>8M0
+dC:\Users\92625\Desktop\ISS_LAB1
+w1104513865
+8C:/Users/92625/Desktop/ISS_LAB1/testbench.v
+FC:/Users/92625/Desktop/ISS_LAB1/testbench.v
+L0 25
+R1
+R3
+R2
+!s100 m_Z]g[ciV:zlRDZZY<d@g1

@@ -1,0 +1,16 @@
+(linux) XXX.c 放同一資料夾 XXX.sh  
+
+
+執行 ./  XXX.sh 會產生  XXX.s 
+			XXX.o
+			XXX.txt
+			XXX.conv
+
+
+XXX.conv  >>  conv2mif  >> XXX.mif
+
+
+XXX.mif  >> loader   >>  code.mif
+
+
+data.bin >> binary2ascii >>  data.mif
