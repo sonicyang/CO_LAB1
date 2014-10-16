@@ -13,20 +13,21 @@ main:
 	.set	noreorder
 	.set	nomacro
     
-    addi $5, $zero, 1			# 0x20000000
-    sll $5, 29
-    addi $3, $zero, 1                   # 0x20000000
+    addi $5, $zero, 1	# store 1 in $5
+    sll $5, 29          #shift left 29,which means 2^29,or 20000000 in hexadecimal
+
+    addi $3, $zero, 1  
     sw $3, 0($5)
-    add $3, $3, 1
+                        #store 1 in 0x20000000 
+    add $3, $3, 1                       
     sw $3, 4($5)
-    
+                        #store 2 in 0x20000004       
     lw $3, 0($5)
     lw $4, 4($5)
-
+                        #load data from 0x20000000 & 0x200000004
     add $3, $3, $4
-
     sw $3, 8($5)
-
+                        #store $3+$4 in 0x20000008
 	move	$2,$0
 	jr	$31
 
